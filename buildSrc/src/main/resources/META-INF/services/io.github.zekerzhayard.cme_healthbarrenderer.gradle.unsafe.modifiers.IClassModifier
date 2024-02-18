@@ -1,0 +1,5 @@
+io.github.zekerzhayard.cme_healthbarrenderer.gradle.unsafe.modifiers.AssetsThreadModifier
+io.github.zekerzhayard.cme_healthbarrenderer.gradle.unsafe.modifiers.BasePluginModifier
+io.github.zekerzhayard.cme_healthbarrenderer.gradle.unsafe.modifiers.ProcessJarTaskModifier
+io.github.zekerzhayard.cme_healthbarrenderer.gradle.unsafe.modifiers.UserBasePlugin$3Modifier
+io.github.zekerzhayard.cme_healthbarrenderer.gradle.unsafe.modifiers.UserBasePluginModifier
